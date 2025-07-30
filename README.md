@@ -30,7 +30,7 @@ Building predicitive models to test whether a passenger survived teh Titanic bas
 
 ## How to Run
 
-1. Open `model.ipynb` in Jupyter Notebook
+1. Open `main.ipynb` in Jupyter Notebook
 2. Run all cells to clean the data, train the model, and make predictions
 
 
