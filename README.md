@@ -2,7 +2,7 @@
 Building predicitive models to test whether a passenger survived teh Titanic bases on features such as age, sex, ticket class, and more.
 
 
-## 📁 Files
+## Files
 - `titanic.csv`: The dataset containing passenger information.
 - `model.ipynb`: Jupyter Notebook used for data analysis, model training, and prediction.
 - `image.png`: Correlation heatmap or other visualizations (if included).
